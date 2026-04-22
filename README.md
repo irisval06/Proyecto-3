@@ -1,4 +1,5 @@
 # Proyecto-3
+Análisis de hábitos de escucha en plataformas de música online
 Este proyecto consiste en el análisis exploratorio y preprocesamiento de datos reales provenientes de una plataforma de streaming musical, con el objetivo de identificar patrones de comportamiento en los hábitos de escucha de usuarios en dos ciudades: Springfield y Shelbyville.
 
 El trabajo se desarrolló en tres etapas principales. En la primera, se realizó una descripción general del conjunto de datos, examinando su estructura, tipos de variables y calidad inicial. Posteriormente, en la etapa de preprocesamiento, se llevó a cabo la limpieza de los datos, corrigiendo nombres de columnas, gestionando valores ausentes y eliminando duplicados para garantizar la integridad del análisis.
